@@ -4,8 +4,7 @@ import Link from 'gatsby-link'
 const Header = () => (
   <div
     style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
+      background: '#100D69',
     }}
   >
     <div
@@ -19,11 +18,11 @@ const Header = () => (
         <Link
           to="/"
           style={{
-            color: 'white',
+            color: '#FF9286',
             textDecoration: 'none',
           }}
         >
-          Coloring Blook
+          Coloring Book
         </Link>
       </h1>
     </div>
