@@ -3,13 +3,13 @@ React gets big and messy real quick. Gatsby's a great low-commitment way to prac
 
 The talk gives a decent walkthrough, but I also want to leave you with the chance to do some of this at home.
 
-Gatsby is built with Node.js v4 and npm v3, so you'll need to check if at least those versions are installed.
+Gatsby is built with Node.js v4 and npm v3, so you'll need to check if at least those versions are installed with these commands.
 
 ```node --version```
 
 ```npm --version```
 
-If Node.js isn't install, go to https://nodejs.org/ and install the recommended version for your OS.
+If Node.js isn't installed, go to https://nodejs.org/ and install the recommended version for your OS.
 
 ## First Gatsby
 
@@ -26,5 +26,3 @@ Go into this directory that you've created on your machine and run this new comm
 ```gatsby develop```
 
 Now go to your browser and check out `localhost:8000`. You should see a default Gatsby site that you can work with as a foundation for your new site.
-
-
