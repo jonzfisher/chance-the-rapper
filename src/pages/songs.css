@@ -1,0 +1,25 @@
+a.songs-link {
+  color: #100D69;
+  text-decoration: none;
+  font-size: 2em;
+  font-weight: 800;
+  line-height: 1em;
+  font-family: sans-serif;
+  display: block;
+  padding-bottom: 0.25em;
+
+}
+a:hover.songs-link {
+  transition: color 0.15s ease-in-out;
+  color: #FF9286;
+}
+
+a:visited.songs-link {
+  opacity: 0.75;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
