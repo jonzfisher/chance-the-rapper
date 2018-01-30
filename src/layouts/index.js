@@ -7,8 +7,7 @@ import './index.css'
 
 const TemplateWrapper = ({ children }) => (
   <div style={{
-    backgroundColor: '#FF9286',
-    height: 'auto',
+    height: '100vh',
   }}>
     <Helmet
       title="Gatsby Default Starter"
@@ -21,9 +20,12 @@ const TemplateWrapper = ({ children }) => (
     <div
       style={{
         margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem 1.45rem 1.45rem',
+        maxWidth: '20rem',
+        padding: '1.45rem 1.0875rem 0 1.45rem',
         color: '#100D69',
+        display: 'flex',
+        justifyContent: 'center',
+        alignContent: 'flex-end',
       }}
     >
       {children()}

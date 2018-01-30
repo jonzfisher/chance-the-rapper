@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import album from './coloring-book.png'
 
 const Header = () => (
   <div>
@@ -9,19 +8,18 @@ const Header = () => (
         margin: '0 auto',
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h1 style={{ margin: '2rem 0' }}>
         <Link
           to="/"
           style={{
             color: '#FF9286',
             textDecoration: 'none',
+            fontStyle: 'italic',
+            textAlign: 'center',
+            width: '100%',
+            display: 'block',
           }}
-        >
-          <img
-            style = {{
-              width: '100%',
-            }}
-            src={album} />
+        > CHANCE
         </Link>
       </h1>
     </div>
