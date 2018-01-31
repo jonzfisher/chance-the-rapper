@@ -1,15 +1,15 @@
-import React from "react";
+import React from 'react'
 import Link from 'gatsby-link'
 
 export default function Template({
-    data, // this prop will be injected by the GraphQL query below.
-  }) {
-  const { markdownRemark } = data; // data.markdownRemark holds our post data
-  const { frontmatter, html } = markdownRemark;
+  data, // this prop will be injected by the GraphQL query below.
+}) {
+  const { markdownRemark } = data // data.markdownRemark holds our post data
+  const { frontmatter, html } = markdownRemark
   return (
     <div className="song-post-container"
-       style={{margin: '0 auto', width:'30rem'}}
-      >
+      style={{margin: '0 auto', width:'30rem'}}
+    >
       <Link to="/songs/">
         Back
       </Link>
@@ -22,9 +22,21 @@ export default function Template({
         />
       </div>
     </div>
-  );
+  )
 }
 
+// export const pageQuery = graphql`
+//   query SongPostByPath($path: String!) {
+//     markdownRemark(frontmatter: { path: { eq: $path } }) {
+//       html
+//       frontmatter {
+//         track
+//         path
+//         title
+//       }
+//     }
+//   }
+// `;
 export const pageQuery = graphql`
   query SongPostByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
@@ -36,4 +48,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`
