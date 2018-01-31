@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{184:function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(4),a=n(u),o=l(57),r=n(o),s=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"This is the transcript of the great Coloring Book by Chance"),a.default.createElement("p",null,"Go listen."),a.default.createElement(r.default,{to:"/songs/"},"Songs"))};t.default=s,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-index-js-e344050f8c97f8302d8e.js.map
