@@ -4,7 +4,7 @@ track: 5
 title: "Blessings (Reprise)"
 ---
 
-## [Verse:]
+## Verse
 I speak of promise land
 Soil as soft as momma's hands
 Running water, standing still
@@ -35,13 +35,13 @@ I'm getting artsy-farsy, house full of some Hebru Brantleys
 You must've missed the come up, I must be all I can be
 Call me Mister Mufasa, I had to master stampedes
 
-## [Hook:]
+## Hook
 I made it through, made it through, made it through
 And everything I gave to you, I gave to you, I gave to you
 You got it, you got it, you got it, it's coming, coming, coming
 So are you ready?
 
-## [Outro - with harmonization (HaHa Davis):]
+## Outro - with harmonization (HaHa Davis)
 Are you ready for your blessings?
 Are you ready for your miracle?
 Are you ready for your blessings?

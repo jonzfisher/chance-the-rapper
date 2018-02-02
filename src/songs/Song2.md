@@ -4,7 +4,7 @@ track: 2
 title: "Blessings"
 ---
 
-#### [Hook: Jamila Woods + Chance The Rapper]
+#### Hook: Jamila Woods + Chance The Rapper
 I'm gon' praise Him, praise Him 'til I'm gone  
 I'm gon' praise Him, praise Him 'til I'm gone  
 When the praises go up, the blessings come down  
@@ -12,7 +12,7 @@ When the praises go up, the blessings come down
 It seems like blessings keep falling in my lap  
 It seems like blessings keep falling in my lap  
 
-#### [Verse 1: Chance The Rapper]
+#### Verse 1: Chance The Rapper
 I don't make songs for free, I make 'em for freedom  
 Don't believe in kings, believe in the Kingdom  
 Chisel me into stone, prayer whistle me into song air  
@@ -22,7 +22,7 @@ Said you the man of the house now, look out for your family
 He has ordered my steps, gave me a sword with a crest  
 And gave Donnie a trumpet in case I get shortness of breath  
 
-#### [Hook: Jamila Woods + Chance The Rapper]
+#### Hook: Jamila Woods + Chance The Rapper
 I'm gon' praise Him, praise Him 'til I'm gone  
 Don't be mad  
 I'm gon' praise Him, praise Him 'til I'm gone  
@@ -40,7 +40,7 @@ When the praises go up, the blessings come down
 
 
 
-#### [Verse 2: Chance The Rapper]
+#### Verse 2: Chance The Rapper
 They booked the nicest hotels on the 59th floor  
 With the big wide windows, with the suicide doors  
 Ain't no blood on my money, ain't no Twitter in Heaven  
@@ -57,7 +57,7 @@ Hit Jericho with a buzzer beater to end a quarter
 Watch brick and mortar fall like dripping water, ugh!  
 (Good God)  
 
-#### [Hook: Jamila Woods, Byron Cage + Chance The Rapper)]
+#### Hook: Jamila Woods, Byron Cage + Chance The Rapper)
 I'm gon' praise Him, praise Him till I'm gone  
 (Good God)  
 I'm gon' praise Him, praise Him till I'm gone  
@@ -77,5 +77,5 @@ When the praises go up, the blessings come down
 (Are you ready, are you ready?)  
 
 
-#### [Outro: Chance The Rapper]
+#### Outro: Chance The Rapper
 It seems like blessings keep falling in my lap  

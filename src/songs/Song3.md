@@ -4,13 +4,13 @@ track: 3
 title: "Same Drugs"
 ---
 
-#### [Chorus 1]
+#### Chorus 1
 We don't do the same drugs no more  
 We don't do the, we don't do the same drugs, do the same drugs no more  
 'Cause she don't do the same drugs no more  
 We don't do the, we don't do the same drugs, do the same drugs no more  
 
-#### [Verse 1]
+#### Verse 1
 When did you change?  
 Wendy, you've aged  
 I thought you'd never grow up  
@@ -19,13 +19,13 @@ Window closed, Wendy got old
 I was too late, I was too late  
 A shadow of what I once was  
 
-#### [Chorus 2]
+#### Chorus 2
 'Cause we don't do the same drugs no more  
 We don't do the, we don't do the same drugs, do the same drugs no more  
 She don't laugh the same way no more  
 We don't do the, we don't do the same drugs, do the same drugs no more  
 
-#### [Verse 2]
+#### Verse 2
 Where did you go?  
 Why would you stay?  
 You must have lost your marbles  
@@ -40,14 +40,14 @@ Don't you miss the days?
 Don't you miss the danger?  
 
 
-#### [Chorus 3: Chance The Rapper + (Eryn Allen Kane)]
+#### Chorus 3: Chance The Rapper + (Eryn Allen Kane)
 We don't (we don't) do the same drugs no more (do the same drugs no more)  
 We don't do the, we don't do the same drugs, do the same drugs no more  
 We don't (we don't) do the same drugs no more (do the same drugs no more)  
 We don't do the, we don't do the same drugs, do the same drugs no more  
 We don't do the, we don't do the same drugs  
 
-#### [Outro: Chance The Rapper + (Eryn Allen Kane)]
+#### Outro: Chance The Rapper + (Eryn Allen Kane)
 (Turn it around  
 I remember when  
 This age of pathetics)  

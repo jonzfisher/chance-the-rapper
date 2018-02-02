@@ -6,7 +6,7 @@ title: "Finish Line / Drown"
 
 ### Part 1: Finish Line
 
-#### [Intro: Eryn Allen Kane & Chance The Rapper]
+#### Intro: Eryn Allen Kane & Chance The Rapper
 Do-do-do-do-do-do-do  
 Do-do-do-do-do-do-do  
 Do-do-do-do-do-do-do  
@@ -18,7 +18,7 @@ Do-do-do-do-do-do-do
 Do-do-do-do-do  
 And we back, and we back, and we back  
 
-#### [Verse 1: Chance The Rapper]  
+#### Verse 1: Chance The Rapper  
 They ain't teaching taxes in school  
 It don't even matter, I was acting a fool  
 But who would think the raps would turn into racks?  
@@ -37,7 +37,7 @@ I know he up there he just sit and he wait
 I'll be racing up the stairs I'mma get to the gate singing  
 
 
-#### [Bridge: Eryn Allen Kane]
+#### Bridge: Eryn Allen Kane
 Do-do-do-do-do-do-do  
 Do-do-do-do-do-do-do  
 Do-do-do-do-do-do-do  
@@ -47,7 +47,7 @@ Do-do-do-do-do-do-do
 Do-do-do-do-do-do-do  
 Do-do-do-do-do  
 
-#### [Hook: T-Pain]
+#### Hook: T-Pain
 Oh! All my days  
 I prayed and prayed  
 And now I see the finish line  
@@ -57,7 +57,7 @@ I prayed and prayed
 And now I see the finish line  
 Gonna finish mine, yeah-eah  
 
-#### [Verse 2: Chance The Rapper]
+#### Verse 2: Chance The Rapper
 Hey! Gimme the water, gimme the water, I need the kind from Space Jam  
 Get this money, get this budget, KOK to day camp  
 Me and my girl plan to stay to the end  
@@ -76,7 +76,7 @@ I'm just here to catch my breath, I got a world tattoo
 She said, "Cool, just bring me some food"  
 
 
-#### [Hook: T-Pain]
+#### Hook: T-Pain
 Oh! All my days  
 I prayed and prayed  
 And now I see the finish line  
@@ -86,7 +86,7 @@ I prayed and prayed
 And now I see the finish line  
 Gonna finish mine, yeah-eah  
 
-#### [Bridge: Eryn Allen Kane]
+#### Bridge: Eryn Allen Kane
 Do-do-do-do-do-do-do  
 Do-do-do-do-do-do-do  
 Do-do-do-do-do-do-do  
@@ -98,10 +98,10 @@ Do-do-do-do-do
 
 ### Part 2: Drown
 
-#### [Intro: Eryn Allen Kane]
+#### Intro: Eryn Allen Kane
 The water may be deeper than it's ever been  
 
-#### [Verse 1: Noname]
+#### Verse 1: Noname
 Lord rain down on me so I can move on water  
 Like children at the altar, like God inside my house  
 I love you, I love you, you looking holy like Mama  
@@ -122,14 +122,14 @@ And all that was left was His love
 And all that was left was His love  
 
 
-#### [Chorus: Choir]
+#### Chorus: Choir
 Never, never drown  
 The water may be deeper than it's ever been  
 Never drown  
 The water may be deeper than it's ever been  
 Never drown  
 
-#### [Verse 2: Choir & Kirk Franklin]
+#### Verse 2: Choir & Kirk Franklin
 Never, never, never! (Chance, let me in, come on in)  
 This thirst in my soul (There's a thirst in my soul, it tell me)  
 Where else can I go? (where?) But you (come on)  
@@ -142,7 +142,7 @@ Take me to your mountain (hallelujah)
 So someday Chicago will be free (someday we'll all be free)  
 Be free (say!)  
 
-#### [Chorus: Choir]
+#### Chorus: Choir
 The water may be deeper than it's ever been  
 Never drown  
 The water may be deeper than it's ever been  

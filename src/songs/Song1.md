@@ -4,12 +4,12 @@ track: 1
 title: "All We Got"
 ---
 
-#### [Intro: Chance The Rapper]
+#### Intro: Chance The Rapper
 And we back  
 And we back, and we back, and we back, and we back, and we  
 And we back, and we back, na, na, na  
 
-#### [Verse 1: Chance The Rapper]
+#### Verse 1: Chance The Rapper
 This ain't no intro, this the entree  
 Hit that intro with Kanye and sound like André  
 Tryna turn my baby mama to my fiancée  
@@ -28,7 +28,7 @@ This is the sheep that ain't like what it herd
 This is officially first  
 This is the third  
 
-#### [Hook: Kanye West]
+#### Hook: Kanye West
 This is the bom bom bom  
 Bom bom bom  
 Bom bom bom  
@@ -40,7 +40,7 @@ Bom bom bom
 Music all we got, got, got  
 So we might as well give it all we got  
 
-#### [Verse 2: Chance The Rapper]
+#### Verse 2: Chance The Rapper
 I get my word from the sermon  
 I do not talk to the serpent  
 That's the holistic discernment  
@@ -56,7 +56,7 @@ You gotta fight for your way
 And that don't take nothing away  
 Cause at the end of the day  
 
-#### [Hook: Kanye West]
+#### Hook: Kanye West
 Music is all we got  
 Music is all we got  
 Isn't this all we got?  
@@ -64,7 +64,7 @@ So we might as well give it all we got
 Music is all we got  
 Music is all we got  
 
-#### [Outro: Kanye West + Chicago Children's Choir]
+#### Outro: Kanye West + Chicago Children's Choir
 We know, we know we got it  
 We know, we know we got it  
 We know, we know we got it  
