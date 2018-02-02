@@ -6,7 +6,7 @@ import chance from './chance_profile.png'
 
 const SongsPage = () => {
 
-  
+
   return (
     <div style={{
       height: '100%',
@@ -36,6 +36,9 @@ const SongsPage = () => {
         </li>
         <li>
           <Link className="songs-link" to="/songs/finish-line-drown">Finish Line / Drown</Link>
+        </li>
+        <li>
+          <Link className="songs-link" to="/songs/blessings-reprise">Blessings (Reprise)</Link>
         </li>
       </ul>
       <img src={ chance } style={{

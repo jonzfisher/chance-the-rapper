@@ -7,6 +7,18 @@ body {
   margin: 0;
   background-color: #107ED6;
 }
+.layout-container {
+  margin: 0 auto;
+  max-width: 30rem;
+  padding: 1.45rem 1.0875rem 0 1.45rem;
+  color: #100D69;
+  display: flex;
+  justify-content: center;
+  align-content: flex-end;
+}
+.height-setter {
+  height: 100vh;
+}
 article,
 aside,
 details,
