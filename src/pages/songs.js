@@ -37,9 +37,6 @@ const SongsPage = () => {
         <li>
           <Link className="songs-link" to="/songs/finish-line-drown">Finish Line / Drown</Link>
         </li>
-        <li>
-          <Link className="songs-link" to="/songs/blessings-reprise">Blessings (Reprise)</Link>
-        </li>
       </ul>
       <img src={ chance } style={{
         position: 'absolute',
