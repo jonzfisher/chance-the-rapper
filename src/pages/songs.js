@@ -5,26 +5,15 @@ import './songs.css'
 import chance from './chance_profile.png'
 
 const SongsPage = () => {
-
-
   return (
     <div style={{
       height: '100%',
     }}>
-      <Link style={{
-        textAlign: 'center',
-        display: 'block',
-      }} to="/">
+      <Link className="back_to_home" to="/">
         Home
       </Link>
-      <h1 style={{
-        textAlign: 'center',
-        color: 'white',
-      }}>Songs</h1>
-      <ul style={{
-        textAlign: 'center',
-        marginTop: '2rem',
-      }}>
+      <h1 className="songs_header">Songs</h1>
+      <ul className="songs_list">
         <li>
           <Link className="songs-link" to="/songs/all-we-got">All We Got</Link>
         </li>

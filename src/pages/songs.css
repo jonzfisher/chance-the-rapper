@@ -23,3 +23,18 @@ ul {
   margin-left: 0;
   padding-left: 0;
 }
+
+.back_to_home {
+  text-align: center;
+  display: block;
+}
+
+.songs_header {
+  text-align: center;
+  color: white;
+}
+
+.songs_list {
+  text-align: center;
+  margin-top: 2rem;
+}
