@@ -25,18 +25,6 @@ export default function Template({
   )
 }
 
-// export const pageQuery = graphql`
-//   query SongPostByPath($path: String!) {
-//     markdownRemark(frontmatter: { path: { eq: $path } }) {
-//       html
-//       frontmatter {
-//         track
-//         path
-//         title
-//       }
-//     }
-//   }
-// `;
 export const pageQuery = graphql`
   query SongPostByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
